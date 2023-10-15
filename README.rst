@@ -18,7 +18,7 @@ Read this in `简体中文`_ (simplified Chinese), `日本語`_ (Japanese), `한
 (Korean) and `Spanish`_. NOTE: these have not been reviewed by the alex/what-happens-when
 maintainers.
 This pull request must bring meaningful value (not a typo correction or style improvement)
-
+All other is good
 Table of Contents
 ====================
 
